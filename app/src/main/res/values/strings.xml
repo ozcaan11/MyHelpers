@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">My Helpers</string>
     <string name="action_settings">Settings</string>
+    <string name="request_permission_messages_contact">Request Permission | Messages - Contact</string>
+    <string name="check_permission_messages_contact">Check Permission | Messages - Contact</string>
+    <string name="username">Username ..</string>
+    <string name="list_user">List User</string>
 </resources>

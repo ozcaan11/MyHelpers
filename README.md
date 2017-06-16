@@ -15,3 +15,9 @@ Here is my helper class i have always using!
 		compile 'com.github.ozcaan11:MyHelpers:1.0.0'
 	}
 --------
+
+### External Libraries that i am using
+
+ 1. [ActiveAndroid](https://github.com/pardom/ActiveAndroid)
+ 2. [Easy Permission](https://github.com/googlesamples/easypermissions)
+ 3. [Sweet Alert Dialog](https://github.com/pedant/sweet-alert-dialog)
