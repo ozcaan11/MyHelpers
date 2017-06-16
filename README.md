@@ -11,6 +11,7 @@ Here is my helper class i have always using!
         
 ###### Add the dependency in your module build.gradle  
 	dependencies {
+	    	...
 		compile 'com.github.ozcaan11:MyHelpers:1.0.0'
 	}
 --------
