@@ -2,7 +2,6 @@ package semiworld.org.myhelpers;
 
 import android.Manifest;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.text.TextUtils;
 import android.view.View;
@@ -21,10 +20,11 @@ import java.util.List;
 
 import cn.pedant.SweetAlert.SweetAlertDialog;
 import pub.devrel.easypermissions.EasyPermissions;
+import semiworld.org.helper.BaseAnimationActivity;
 import semiworld.org.helper.Toasty;
 
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends BaseAnimationActivity {
 
     private static final int CODE = 1422;
     String[] permissions = {Manifest.permission.READ_SMS, Manifest.permission.READ_CONTACTS};
