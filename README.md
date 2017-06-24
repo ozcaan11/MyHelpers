@@ -21,3 +21,7 @@ Here is my helper class i have always using!
  1. [ActiveAndroid](https://github.com/pardom/ActiveAndroid)
  2. [Easy Permission](https://github.com/googlesamples/easypermissions)
  3. [Sweet Alert Dialog](https://github.com/pedant/sweet-alert-dialog)
+
+-------
+### Extra features
+ 1. Extend your AppCompatActivity from BaseAnimationActivity to get animation like ios when starting a neew intent your back to a intent
